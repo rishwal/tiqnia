@@ -1,0 +1,11 @@
+@charset "UTF-8";/*!
+  Ionicons, v2.0.0
+  Created by Ben Sperry for the Ionic Framework, http://ionicons.com/
+  https://twitter.com/benjsperry  https://twitter.com/ionicframework
+  MIT License: https://github.com/driftyco/ionicons
+
+  Android-style icons originally built by Google’s
+  Material Design Icons: https://github.com/google/material-design-icons
+  used under CC BY http://creativecommons.org/licenses/by/4.0/
+  Modified icons to fit ionicon’s grid from original.
+*/@font-face{font-family:"Ionicons";src:url("../fonts/ionicons.eot@v=2.0.0");src:url("../fonts/ionicons.eot@v=2.0.0") format("embedded-opentype"),url("../fonts/ionicons.ttf@v=2.0.0") format("truetype"),url("../fonts/ionicons.woff@v=2.0.0") format("woff"),url("https://preview.colorlib.com/theme/evento/assets/fonts/ionicons.svg?v=2.0.0") format("svg");font-weight:normal;font-style:normal}.ion,.ionicons,.ion-email-unread:before,.ion-ios-calendar-outline:before,.ion-ios-location-outline:before,.ion-ios-person-outline:before,.ion-ios-pricetag-outline:before,.ion-ios-search:before,.ion-ios-telephone:before,.ion-location:before,.ion-planet:before,.ion-social-dribbble:before,.ion-social-facebook:before,.ion-social-instagram:before,.ion-social-pinterest:before,.ion-social-twitter:before{display:inline-block;font-family:"Ionicons";speak:none;font-style:normal;font-weight:normal;font-variant:normal;text-transform:none;text-rendering:auto;line-height:1;-webkit-font-smoothing:antialiased;-moz-osx-font-smoothing:grayscale}.ion-email-unread:before{content:"\f3c3"}.ion-ios-calendar-outline:before{content:"\f3f3"}.ion-ios-location-outline:before{content:"\f455"}.ion-ios-person-outline:before{content:"\f47d"}.ion-ios-pricetag-outline:before{content:"\f48c"}.ion-ios-search:before{content:"\f4a5"}.ion-ios-telephone:before{content:"\f4b9"}.ion-location:before{content:"\f1ff"}.ion-planet:before{content:"\f343"}.ion-social-dribbble:before{content:"\f22d"}.ion-social-facebook:before{content:"\f231"}.ion-social-instagram:before{content:"\f351"}.ion-social-pinterest:before{content:"\f2b1"}.ion-social-twitter:before{content:"\f243"}
