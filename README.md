@@ -5,7 +5,7 @@
 
 <img src="assets/img/logo2.png" alt="Tiqnia2023 Logo" width="100%">
 
-## Welcome to the TIQNIA2023 Website Repository! :tada:
+# Welcome to the TIQNIA2023 Website Repository! :tada:
 
 ### Created by Rishwal with HTML, CSS, and JQuery :rocket:
 # My Project
