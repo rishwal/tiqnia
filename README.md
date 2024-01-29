@@ -7,9 +7,7 @@
 
 # Welcome to the TIQNIA2023 Website Repository! :tada:
 
-### Created by Rishwal with HTML, CSS, and JQuery :rocket:
-# My Project
-
+### Created by  [Rishwal](https://github.com/rishwal) with HTML, CSS, and JQuery :rocket:
 
 ## Table of Contents :scroll:
 
